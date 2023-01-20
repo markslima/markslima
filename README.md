@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markslima
-- 👀 I’m interested in web development, linux, and playing musical instruments!  :)
-- 🌱 I’m currently learning javascript, react.js, pythyon, kali linux, bash scripting
+- 👀 I’m interested in data analytics, web development, and playing music!  :)
+- 🌱 I’m currently learning javascript, react.js, node/express, python & pandas
 - 💞️ I’m looking to collaborate on fun and interesting python projects
 - 📫 How to reach me ... you can look me up on LinkedIn!
 
